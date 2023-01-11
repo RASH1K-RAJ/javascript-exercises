@@ -11,7 +11,7 @@ const fibonacci = function(count) {
         b = b + a;
         a = temp;
     }
-    return b;s
+    return b;
 };
 
 // Do not edit below this line
